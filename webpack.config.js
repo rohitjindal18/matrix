@@ -6,7 +6,7 @@ const config = {
     },
     output: {
         path: __dirname + "/dist",
-        filename: "matrix.js"
+        filename: "index.js"
     },
     module: {
         rules: [
